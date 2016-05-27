@@ -1,0 +1,83 @@
+/*.row-dos{
+	background: url("../images/logocodeacademy.png") no repeat;
+	background-size: contain;
+}
+
+.foto{
+	border-radius: 100%;
+	height: 60px;
+}*/
+.row-uno{
+	
+}
+.foto img{
+	border-radius: 100%;
+	padding: 7px 0;
+}
+.foto i{
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	color: #E0E0E0;
+}
+.perfil{
+	padding: 10px;
+}
+.nombre img{
+	border-radius: 100px;
+}
+.foto{
+	background-color: #FE2EF7;
+	border: 2px dashed #FE2EF7;
+}
+.nombre{
+	border-right: 1px solid #E0E0E0;
+	background-color: #FE2EF7;
+	padding: 7px;
+}
+.nombre i{
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	color: #E0E0E0;
+}
+.nombre button{
+	background-color: #FE2EF7;
+	border: 1px solid #FE2EF7; 
+}
+.lista{
+	background-color: #fff;
+	padding-right: 0;
+	padding-left: 0;
+}
+.buscar{
+	padding:5px;	
+	border:1px solid #E0E0E0;
+	margin:7px 19px;
+	border-radius: 5px;
+}
+.buscar i{
+	color: #E0E0E0;
+}
+.buscar input{
+	width: 95%;
+	border: none;
+}
+.contact-list{
+	overflow: scroll;
+	height: 488px;
+}
+.chat{
+	background: url("images/chat-panel-bg.png");
+	background-size: cover;
+}
+.contenido-chat{
+	overflow: scroll;
+	height: 380px;
+}
+#bienvenida{
+	padding-bottom: 0;
+}
+#chat{
+	display: none;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp2",
+  "version": "1.0.0",
+  "description": "chat de wathsapp en node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArelisHuaraya/Whatsapp2.git"
+  },
+  "author": "Arelis Huaraya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArelisHuaraya/Whatsapp2/issues"
+  },
+  "homepage": "https://github.com/ArelisHuaraya/Whatsapp2#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  }
+}
